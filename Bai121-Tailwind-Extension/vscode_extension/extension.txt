@@ -1,0 +1,4 @@
+Tailwind CSS IntelliSense
+PostCSS Language Support
+Color Highlight
+Live Preview
